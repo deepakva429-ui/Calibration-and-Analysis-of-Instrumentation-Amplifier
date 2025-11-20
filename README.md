@@ -45,16 +45,7 @@ Simulation of AC:
 
 Tabulation for AC\DC:
 
-V1
-(Voults)	V2
-(Voults)	  R1	  R2	  R3	Rgain	Gain	Vout
-AC							
-1	4	1268	200	1100	429	6.91	21
-8	2	429	985	493	1699	1.51	-9
-DC							
-7	4	1230	719	208	429	0.00	0
-1	7	1285	224	429	1691	2.91	17
-
+<img width="767" height="237" alt="image" src="https://github.com/user-attachments/assets/b7d27347-4ba9-44c6-8865-8d02a10b08f2" />
 
 
 Result:
